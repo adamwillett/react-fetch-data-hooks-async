@@ -1,12 +1,10 @@
-@import "./fonts.css";
-
 .App {
   font-family: Roboto, sans-serif;
   text-align: center;
 }
 
 h1 {
-  font-family: Roboto-Bold, sans-serif;
+  font-family: Roboto Slab;
   font-size: 2rem;
 }
 
